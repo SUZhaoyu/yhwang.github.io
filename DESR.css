@@ -960,11 +960,14 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1136px;
+    min-height: 1362px;
   }
 
   .u-section-1 .u-tabs-1 {
-    min-height: 1180px;
+    min-height: 1361px;
+    width: 392px;
+    margin-left: -26px;
+    margin-right: -26px;
   }
 
   .u-section-1 .u-tab-link-1 {
@@ -1008,39 +1011,45 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.125rem;
-    margin-left: 0;
-    margin-right: 0;
+    margin-top: 0;
+    margin-left: 18px;
+    margin-right: 18px;
   }
 
   .u-section-1 .u-image-1 {
     width: 340px;
     height: 219px;
-    margin-left: 0;
+    margin-top: 25px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 0;
-    margin-left: 0;
+    margin-top: 9px;
+    margin-left: 28px;
+    margin-right: 28px;
   }
 
   .u-section-1 .u-image-2 {
-    margin-top: 326px;
+    margin-top: 353px;
   }
 
   .u-section-1 .u-image-3 {
     width: 340px;
     height: 273px;
-    margin-top: -668px;
+    margin-top: -679px;
   }
 
   .u-section-1 .u-text-3 {
-    width: 340px;
+    width: auto;
+    margin-top: 9px;
+    margin-left: 36px;
+    margin-right: 36px;
   }
 
   .u-section-1 .u-text-4 {
-    margin-top: 377px;
-    margin-right: 23px;
-    margin-left: 36px;
+    margin-top: 388px;
+    margin-left: 30px;
+    margin-right: 30px;
   }
 
   .u-section-1 .u-text-5 {
@@ -1163,29 +1172,29 @@
   }
 
   .u-section-1 .u-image-8 {
-    height: 442px;
-    margin-top: 425px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    height: 463px;
+    width: 355px;
+    margin-top: 423px;
+    margin-left: 13px;
   }
 
   .u-section-1 .u-image-9 {
-    height: 377px;
-    margin-top: -840px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    height: 392px;
+    width: 361px;
+    margin-top: -865px;
+    margin-left: 11px;
   }
 
   .u-section-1 .u-text-18 {
-    margin-top: 468px;
+    margin-top: 491px;
+    margin-left: 19px;
   }
 
   .u-section-1 .u-text-19 {
     line-height: 1.2;
-    margin-top: 10px;
-    margin-right: 10px;
+    margin-top: 5px;
+    margin-left: 19px;
+    margin-right: 19px;
   }
 
   .u-section-1 .u-text-20 {
