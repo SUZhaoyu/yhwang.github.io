@@ -2584,11 +2584,11 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1017px;
+    min-height: 1938px;
   }
 
   .u-section-2 .u-tabs-1 {
-    min-height: 1015px;
+    min-height: 1936px;
     width: 399px;
     margin: 1px -29px;
   }
@@ -2596,6 +2596,10 @@
   .u-section-2 .u-tab-link-1 {
     padding-left: 9px;
     padding-right: 9px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-bottom: 30px;
   }
 
   .u-section-2 .u-text-1 {
