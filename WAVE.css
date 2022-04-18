@@ -936,11 +936,11 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1565px;
+    min-height: 1331px;
   }
 
   .u-section-2 .u-tabs-1 {
-    min-height: 1565px;
+    min-height: 1331px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -961,50 +961,54 @@
   }
 
   .u-section-2 .u-image-2 {
-    margin-top: -404px;
+    margin-top: -330px;
     margin-right: 30px;
   }
 
   .u-section-2 .u-text-2 {
-    margin-top: 816px;
+    margin-top: 742px;
   }
 
   .u-section-2 .u-text-3 {
     letter-spacing: 0px;
     width: auto;
-    margin-top: -726px;
+    margin-top: -632px;
     margin-left: 62px;
     margin-right: 62px;
   }
 
   .u-section-2 .u-shape-1 {
     height: 519px;
-    margin-top: 20px;
+    margin-top: 13px;
   }
 
   .u-section-2 .u-image-3 {
     margin-top: -455px;
-    margin-left: 99px;
+    margin-left: 110px;
   }
 
   .u-section-2 .u-image-4 {
-    margin-right: 132px;
+    margin-right: 111px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-text-4 {
     width: auto;
-    margin-left: 62px;
+    margin-top: 22px;
+    margin-left: 48px;
   }
 
   .u-section-2 .u-text-5 {
     width: auto;
-    margin-right: 33px;
-    margin-left: 62px;
+    margin-top: 13px;
+    margin-left: 48px;
+    margin-right: 48px;
   }
 
   .u-section-2 .u-text-6 {
     width: auto;
-    margin-top: -475px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-image-5 {
@@ -1513,7 +1517,6 @@
 
   .u-section-2 .u-image-4 {
     margin-right: 20px;
-    margin-left: 425px;
   }
 
   .u-section-2 .u-text-4 {
@@ -2083,7 +2086,7 @@
   }
 
   .u-section-2 .u-shape-1 {
-    margin-top: 20px;
+    margin-top: 13px;
   }
 
   .u-section-2 .u-image-3 {
@@ -2593,8 +2596,6 @@
 
   .u-section-2 .u-tabs-1 {
     min-height: 1936px;
-    margin-top: 1px;
-    margin-bottom: 1px;
   }
 
   .u-section-2 .u-tab-link-1 {
@@ -2654,7 +2655,7 @@
   .u-section-2 .u-image-4 {
     margin-top: 21px;
     margin-right: 84px;
-    margin-left: 45px;
+    margin-left: auto;
   }
 
   .u-section-2 .u-text-4 {
